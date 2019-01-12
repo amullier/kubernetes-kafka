@@ -1,0 +1,6 @@
+# Namespace de l'application
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: kafka
